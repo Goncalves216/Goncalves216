@@ -1,4 +1,4 @@
-# 💻 Marco Reis
+# 💻👨‍💻 Marco Reis
 
 ## **``Cursando o ensino superior em S.I ``**
 ---
