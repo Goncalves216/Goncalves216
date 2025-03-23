@@ -1,6 +1,6 @@
 # 💻 Marco Reis
 
-## **``Cursando o ensino superior de S.I ``**
+## **``Cursando o ensino superior em S.I ``**
 ---
 
 ##  🦾 Linguagens, IDEs e programas
