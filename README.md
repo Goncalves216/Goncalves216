@@ -119,3 +119,13 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goncalves216&show_icons=true&theme=dracula&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalves216&theme=dracula&layout=compact&custom_tittle=Tecnologias&langs_count=7"/>
 </div>
+
+<br/>
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
