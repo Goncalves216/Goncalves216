@@ -100,13 +100,7 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img alt="Gif legal" title="Gif legal" width="250px" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
-    <img alt="Gif legal" title="Gif legal" width="250px" src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif" />
-  </div>
-
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img alt="Gif legal que peguei de um cara" title="Gif legal que peguei de um cara" width="250px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRqaHB0cmRiZGxzazJ5YWNlZ3Q5NDg5dDVtMThiYjNpZXc3eDFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" />
-    <img alt="Gif legal" title="Gif legal" width="250px" src="https://i.redd.it/n8agw6z2smyb1.gif" />
+    <img alt="PyCharm" title="PyCharm" width="250px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwODI1NTQsIm5iZiI6MTc0MzA4MjI1NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDEzMzA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5Mjk0MGE3ODRhNmU5NjQzODBlODIyMDM5MjdjODc5NDM0Yjk1NDQzMGMyOWM4MzFlNDk5YmExZTFhYTEwMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TvLfsUw_YD5xFvZqntdxWZEdgf5ajzNHrCbQciBQj4I" />
   </div>
 </div>
 
