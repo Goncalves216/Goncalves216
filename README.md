@@ -100,7 +100,7 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
   <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img alt="PyCharm" title="PyCharm" width="250px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwODI1NTQsIm5iZiI6MTc0MzA4MjI1NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDEzMzA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5Mjk0MGE3ODRhNmU5NjQzODBlODIyMDM5MjdjODc5NDM0Yjk1NDQzMGMyOWM4MzFlNDk5YmExZTFhYTEwMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TvLfsUw_YD5xFvZqntdxWZEdgf5ajzNHrCbQciBQj4I" />
+    <img alt="Linkedin" title="Linkedin" width="250px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwODI1NTQsIm5iZiI6MTc0MzA4MjI1NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDEzMzA1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5Mjk0MGE3ODRhNmU5NjQzODBlODIyMDM5MjdjODc5NDM0Yjk1NDQzMGMyOWM4MzFlNDk5YmExZTFhYTEwMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TvLfsUw_YD5xFvZqntdxWZEdgf5ajzNHrCbQciBQj4I" />
   </div>
 </div>
 
@@ -111,9 +111,14 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
+    <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  </a>
+  <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph" />
+  </a>
 </div>
+
 
 <br/>
 <br/>
