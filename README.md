@@ -110,10 +110,10 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 
 <div align="left">
  <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
 </a>
   <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph"  />
    </a>
 </div>
 
