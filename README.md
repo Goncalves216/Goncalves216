@@ -16,6 +16,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 
 <img
 align="left"
+ alt="Java"
+ title="Java"
+ width="30px"
+ style="padding-right: 30px;"  
+src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+
+
+<img
+align="left"
  alt="Python"
  title="Python"
  width="30px"
@@ -70,6 +79,15 @@ src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.
 
 <img
 align="left"
+ alt="Eclipse"
+ title="Eclipse"
+ width="30px"
+ style="padding-right: 18px;"  
+src="https://github.com/user-attachments/assets/b128fd57-419f-4c82-9472-2022d35a63af" />
+
+
+<img
+align="left"
  alt="PyCharm"
  title="PyCharm"
  width="30px"
@@ -110,11 +128,11 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 
 <div align="left">
  <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&cache_seconds=1800&order=1" height="150" alt="stats graph" />
 </a>
   <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&cache_seconds=1800&order=2" height="150" alt="languages graph" />
+  </a>
 </div>
 
 <br/>
