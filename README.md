@@ -70,11 +70,11 @@ src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /
 
 <img
 align="left"
- alt="Dev-C++"
- title="Dev-C++"
+ alt="Visual Studio"
+ title="Visual Studio"
  width="30px"
  style="padding-right: 18px;"  
-src="https://styles.redditmedia.com/t5_32raz/styles/communityIcon_yria07xbhfn61.png?width=256&s=4e76b1791c45a028694c6369660f5557dcd056f9" />
+src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" />
 
 
 <img
@@ -84,15 +84,6 @@ align="left"
  width="30px"
  style="padding-right: 18px;"  
 src="https://github.com/user-attachments/assets/b128fd57-419f-4c82-9472-2022d35a63af" />
-
-
-<img
-align="left"
- alt="PyCharm"
- title="PyCharm"
- width="30px"
- style="padding-right: 18px;"  
-src="https://iconlogovector.com/uploads/images/2024/04/lg-661b230991ee1-PyCharm.webp" />
 
 
 <img
