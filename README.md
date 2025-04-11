@@ -70,6 +70,15 @@ src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /
 
 <img
 align="left"
+ alt="Intellij"
+ title="Intellij"
+ width="30px"
+ style="padding-right: 18px;"  
+src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
+
+
+<img
+align="left"
  alt="PyCharm"
  title="PyCharm"
  width="30px"
@@ -84,15 +93,6 @@ align="left"
  width="30px"
  style="padding-right: 18px;"  
 src="https://github.com/user-attachments/assets/b128fd57-419f-4c82-9472-2022d35a63af" />
-
-
-<img
-align="left"
- alt="Intellij"
- title="Intellij"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
 
 
 <img
