@@ -61,15 +61,6 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 <br/>
 <br/>
 <br/>
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div style="display: flex; flex-direction: column; gap: 20px;">
-    <img alt="" title="" width="300px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMyODc0NzQsIm5iZiI6MTc0MzI4NzE3NCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI5VDIyMjYxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlZGU5MzRlMTJiMTZjYTZlZDJlMWQxM2VjMmU5ZGVjNmYxYmUyZjk2ODc3OWY4YTY3M2MyYzUxZmFmZTAzMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zR8KMqxjNImuoy5lrhHyWFm77jO_fT3xE5h8QKRYVQ8" />
-  </div>
-</div>
-
-<br/>
-<br/>
 <br/>
 
 <div align="left">
