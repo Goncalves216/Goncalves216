@@ -16,47 +16,11 @@ src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
 
 <img
 align="left"
- alt="Java"
- title="Java"
- width="30px"
- style="padding-right: 30px;"  
-src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
-
-
-<img
-align="left"
  alt="Python"
  title="Python"
  width="30px"
  style="padding-right: 18px;"  
 src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-
-
-<img
-align="left"
- alt="Javascript"
- title="Javascript"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" />
-
-
-<img
-align="left"
- alt="HTML5"
- title="HTML5"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-
-
-<img
-align="left"
- alt="CSS3"
- title="CSS3"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 
 
 <img
@@ -70,29 +34,11 @@ src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /
 
 <img
 align="left"
- alt="Intellij"
- title="Intellij"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
-
-
-<img
-align="left"
  alt="PyCharm"
  title="PyCharm"
  width="30px"
  style="padding-right: 18px;"  
 src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" />
-
-
-<img
-align="left"
- alt="Eclipse"
- title="Eclipse"
- width="30px"
- style="padding-right: 18px;"  
-src="https://github.com/user-attachments/assets/b128fd57-419f-4c82-9472-2022d35a63af" />
 
 
 <img
