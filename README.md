@@ -63,19 +63,6 @@ src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" /
 <br/>
 <br/>
 
-<div align="left">
- <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goncalves216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=true&cache_seconds=2140&order=1" height="150" alt="stats graph" />
-</a>
-  <a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goncalves216&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&cache_seconds=2140&order=2" height="150" alt="languages graph" />
-  </a>
-</div>
-
-<br/>
-<br/>
-<br/>
-
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Goncalves216/Goncalves216/output/github-contribution-grid-snake-dark.svg">
