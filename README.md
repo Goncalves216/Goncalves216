@@ -2,6 +2,14 @@
 
 ## **``Cursando o ensino superior em S.I ``**
 ---
+## **``Entre em contado``**
+<img
+align="left"
+ alt="Linkedin"
+ title="Linkedin"
+ width="30px"
+ style="padding-right: 18px;"  
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 
 ##  🦾 Linguagens, IDEs e programas
 
