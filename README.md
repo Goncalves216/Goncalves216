@@ -2,7 +2,7 @@
 
 ## **``Cursando o ensino superior em S.I ``**
 ---
-## **``Entre em contado``**
+## Entre em contado
 <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
   <img
     align="left"
@@ -13,7 +13,7 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 <br/><br/>
-##  🦾 Linguagens, IDEs e programas
+## 🦾 Linguagens, IDEs e programas
 
 <img
 align="left"
