@@ -10,7 +10,7 @@ align="left"
  width="30px"
  style="padding-right: 18px;"  
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
-
+\br
 ##  🦾 Linguagens, IDEs e programas
 
 <img
