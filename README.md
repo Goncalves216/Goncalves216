@@ -3,7 +3,7 @@
 ## **``Cursando o ensino superior em S.I ``**
 ---
 ## **``Entre em contado``**
-<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+<a href="https://www.linkedin.com/in/marco-antonio-reis-189199355/" target="_blank" rel="noopener noreferrer">
   <img
     align="left"
     alt="Linkedin"
