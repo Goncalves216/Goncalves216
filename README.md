@@ -2,7 +2,7 @@
 
 ## **``Cursando o ensino superior em S.I ``**
 ---
-## Entre em contado
+## **``Entre em contado``**
 <a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
   <img
     align="left"
