@@ -1,4 +1,4 @@
-# 💻👨‍💻 Marco Reis
+# 🖥️Marco Reis
 
 ## **``Cursando o ensino superior em S.I ``**
 ---
@@ -13,25 +13,25 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 
+<br><br>
+
 ## 🦾 Linguagens, IDEs e programas
 
 <img
 align="left"
- alt="C"
- title="C"
+ alt="Java"
+ title="Java"
  width="30px"
  style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-
+src="https://img.icons8.com/?size=100&id=TINShjDQ0nw4&format=png&color=000000"/>
 
 <img
 align="left"
- alt="Python"
- title="Python"
+ alt="IntelliJ"
+ title="IntelliJ"
  width="30px"
  style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-
+src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
 
 <img
 align="left"
@@ -41,16 +41,6 @@ align="left"
  style="padding-right: 18px;"  
 src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
 
-
-<img
-align="left"
- alt="PyCharm"
- title="PyCharm"
- width="30px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000" />
-
-
 <img
 align="left"
  alt="Git"
@@ -59,19 +49,7 @@ align="left"
  style="padding-right: 18px;"  
 src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 
-
-<img
-align="left"
- alt="Github"
- title="Github"
- width="35px"
- style="padding-right: 18px;"  
-src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" />
-
-<br/>
-<br/>
-<br/>
-<br/>
+<br><br><br><br>
 
 <div>
 <picture>
