@@ -13,15 +13,6 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 
-<img
-align="left"
- alt="marco.072602@gmail.com"
- title="marco.072602@gmail.com"
- width="30px"
- style="padding-right: 18px;"  
-src="https://camo.githubusercontent.com/81d8f3b295cdc887c4925d1b2f246409264536dc81e8bce0ab9ef42a8b0904ec/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676d61696c2f443134383336"/>
-<br/><br/>
-
 ## 🦾 Linguagens, IDEs e programas
 
 <img
