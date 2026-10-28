@@ -35,6 +35,14 @@ src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" />
 
 <img
 align="left"
+ alt="Eclipse"
+ title="Eclipse"
+ width="30px"
+ style="padding-right: 18px;"  
+src="https://img.icons8.com/?size=100&id=M3VdK2RFjYkF&format=png&color=000000" />
+
+<img
+align="left"
  alt="VScode"
  title="VScode"
  width="30px"
